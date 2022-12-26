@@ -1,0 +1,14 @@
+-Section 1
+Introduction to Web design
+
+-Section 2
+Understanding the colour theory
+
+-Section 3
+Typography
+
+
+- Serief Typeface
+- Use of Sans-Serief Typeface
+
+
